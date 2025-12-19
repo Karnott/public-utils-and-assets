@@ -1,0 +1,11 @@
+
+> karnott@0.1.0 coverage:summary /home/runner/work/karnott-front/karnott-front/sites/front
+> rm -rf ./coverage && pnpx nyc report --reporter=text-summary
+
+
+=============================== Coverage summary ===============================
+Statements   : 63.03% ( 16008/25397 )
+Branches     : 52.3% ( 7451/14246 )
+Functions    : 57.46% ( 5288/9202 )
+Lines        : 63.9% ( 14692/22992 )
+================================================================================
